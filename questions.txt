@@ -1,0 +1,60 @@
+Create a simple calculator app with buttons for numbers (0-9), addition, subtraction, multiplication, division, and an equals button.
+
+Implement a todo list app where users can add, delete, and mark tasks as completed.
+Develop a weather app that fetches weather data from an API and displays it to the user.
+Build a countdown timer that allows users to set a specific time and counts down to zero.
+Create a basic chat application where users can send and receive messages in real-time.
+Implement a drag-and-drop file uploader component.
+Develop a movie search app that fetches movie data based on user input (title, genre, etc.).
+Build a quiz app where users can answer multiple-choice questions and receive feedback on their answers.
+Create a carousel/slider component for displaying images or content.
+Implement a login/signup form with validation and error handling.
+Develop a pagination component for displaying large datasets with limited items per page.
+Build a calendar component that displays events and allows users to add, edit, and delete events.
+Create a dropdown/select component with options fetched from an API.
+Implement a multi-step form with progress indicators.
+Develop a search bar component with autocomplete functionality.
+Build a photo gallery app with options for filtering and sorting images.
+Create a tooltip component that displays additional information when hovering over a specific element.
+Implement a sticky/fixed header component that remains at the top of the page as the user scrolls.
+Develop a collapsible/accordion component for displaying nested content.
+Create a responsive navigation menu component with support for mobile and desktop devices.
+
+
+Create a counter in react when we click on (+) plus value should be increasing and vice versa on clicking of (-) minus button
+The value render will be on parent and we need to use the child component for buttons (common)
+The button component  should not re render multiple times
+
+
+Implement a hook called useCounter. This hook is responsible for returning below 4 values
+Counter: current counter value
+Increament: Function to increment counter value
+Decrement: Function to decrement counter value
+Reset: Function to reset counter value
+
+
+Implement the todo list with functionality 
+1 create a input field and show the list of the added tasks 
+2 add functionality to add and delete the task
+
+
+
+E-commerce: You're building a product page. How can you dynamically display product information (name, price, description, etc.) based on the selected product ID?
+Forms: When a user submits a form, how can you validate the input fields (e.g., checking if an email is formatted correctly)?
+Routing: In a single-page application, how can you manage different views and navigation between them using React Router?
+API Calls: Your application needs to fetch data from an API. How can you use libraries like Axios or the Fetch API to make these calls?
+Conditional Rendering: How can you conditionally render content based on certain conditions, like showing a "loading" message while data is being fetched?
+Error Handling: How can you handle errors that might occur during API calls or other operations in your React application?
+Component Reusability: How can you create reusable components that can be used in different parts of your application to improve code maintainability?
+Prop Drilling: How can you avoid excessive prop drilling (passing props down through many levels of components) to manage data flow?
+Performance Optimization: How can you optimize the performance of your React application, such as using techniques like memoization or code splitting? 1 Accessibility: How can you ensure your React application is accessible to users with disabilities, following best practices for keyboard navigation and screen reader compatibility?
+Testing: How can you write unit tests for your React components to ensure they behave as expected?
+Styling: Beyond basic CSS, how can you use CSS-in-JS libraries like Styled Components or Emotion to manage styles in your React application?
+State Management (Advanced): While useState works for simple scenarios, how can you manage complex application state using libraries like Redux or Context API?
+Lazy Loading: How can you lazy load components to improve the initial load time of your React application?
+Server-Side Rendering (SSR): How can you implement Server-Side Rendering (SSR) to improve SEO and initial page load performance?
+Animations: How can you add animations to your React application using libraries like React Spring or Framer Motion?
+Authentication: How can you implement user authentication and authorization logic in your React application?
+Deployment: How can you deploy your React application to a production environment?
+Code Splitting (Advanced): How can you use code splitting to break down your React application into smaller bundles for faster loading times?
+Testing Frameworks (Advanced): Beyond basic unit tests, how can you use testing frameworks like Jest or React Testing Library to write more comprehensive tests for your React application?
